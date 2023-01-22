@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-movie-poster/static/css/main.334bdeb1.css",
+    "main.js": "/react-movie-poster/static/js/main.69a13473.js",
+    "index.html": "/react-movie-poster/index.html",
+    "static/media/search.svg": "/react-movie-poster/static/media/search.8079cc13184bb70410785729281803c2.svg",
+    "main.334bdeb1.css.map": "/react-movie-poster/static/css/main.334bdeb1.css.map",
+    "main.69a13473.js.map": "/react-movie-poster/static/js/main.69a13473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.69a13473.js"
+  ]
+}
