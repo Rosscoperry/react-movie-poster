@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ross-perry.co.uk/my-app",
-  "name": "my-app",
+  "homepage": "http://ross-perry.co.uk/react-movie-poster",
+  "name": "react-movie-poster",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
